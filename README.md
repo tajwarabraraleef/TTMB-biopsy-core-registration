@@ -15,7 +15,7 @@ Pathology from trans-perineal template mapping biopsy (TTMB) can be used as labe
 MATLAB 2021a 
 ```
 
-### Training
+### Instructions
 
 To run the code, use `main.m` file. Due to privacy policy, we are unable to share our full dataset. However, we have included anonymized version of a case for reference. Format your dataset in the same way and modify the `path_report_sample.xlsx` file accordinly. This excel file needs to be populated with the input informations as explained in the manucript.
 
