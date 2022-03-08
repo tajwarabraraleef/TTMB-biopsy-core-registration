@@ -23,7 +23,7 @@ To run the code, use `main.m` file. Due to privacy policy, we are unable to shar
 
 Please cite the following paper if you use this code in your work:
 ```
-@article{aleef2021,
+@article{aleef2022,
 title={Registration of trans-perineal template mapping biopsy cores to volumetric ultrasound},
 author={Aleef, Tajwar Abrar, Zeng, Qi, Morris, W. James, Mahdavi, S. Sara, and Salcudean, Septimiu E.},
 booktitle="International Conference on Information Processing in Computer- Assisted Interventions -- IPCAI 2022",
